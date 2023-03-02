@@ -17,7 +17,7 @@ TOKEN=your-discord-bot-token
 
 ## Restrictions
 The following restrictions are set:
-- You may not abuse https://lbprate.com/'s ping requests
+- You may not abuse https://lbprate.com/ 's ping requests
 
 ## License
 We're under [GPL-3.0](https://github.com/Berry-Studios/LBPRateBot/blob/master/LICENSE)!
